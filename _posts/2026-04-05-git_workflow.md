@@ -5,6 +5,18 @@ date: 2026-04-05
 categories: software
 tags: [git, github]
 ---
+## easier workflow
+```zsh
+> git checkout main
+
+# do some editing
+
+> git add ...
+> git commit -m "..."
+> git push -u origin main
+```
+
+## pull request workflow
 ``` zsh
 > git checkout main
 
